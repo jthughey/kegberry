@@ -1,6 +1,6 @@
 #!/bin/bash
 # Kegberry install script.
-# Source: https://github.com/Kegbot/kegberry
+# Source: https://github.com/jthughey/kegberry
 
 set -e
 set -x
